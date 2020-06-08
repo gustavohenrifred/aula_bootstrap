@@ -1,0 +1,28 @@
+body{
+    font: 20px a
+}
+
+.navbar {
+    background-color: #4B8A08;
+}
+
+.quemsomos {
+    background-color: blueviolet;
+    color: white;
+}
+
+.margin {
+    padding-bottom: 50px;
+    padding-top: 10px;
+}
+
+.parceiros {
+    background-color: crimson;
+    color: wheat;
+}
+
+.bg-footer {
+    background-color: darkviolet;
+    color: whitesmoke;
+}
+
